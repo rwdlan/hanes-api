@@ -1,0 +1,491 @@
+[
+  {
+    "date": -31000,
+    "amDdim": false,
+    "id": "dynes-goch-pafiland",
+    "label": "\u0022Dynes\u0022 Goch Pafiland"
+  },
+  {
+    "date": -2630,
+    "categoryId": "pwynt-cyfeirio",
+    "amDdim": false,
+    "id": "pyramid",
+    "label": "Adeiladu\u0027r Pyramid Cyntaf"
+  },
+  {
+    "date": -200,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "trer-ceiri",
+    "label": "Tre\u0027r Ceiri"
+  },
+  {
+    "start": 47,
+    "end": 410,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "rhufeiniaid",
+    "label": "Rhufeiniaid "
+  },
+  {
+    "start": 335,
+    "end": 388,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "macsen-wledig",
+    "label": "Macsen Wledig"
+  },
+  {
+    "date": 460,
+    "categoryId": "crefydd",
+    "amDdim": false,
+    "id": "santes-dwynwen",
+    "label": "Santes Dwynwen"
+  },
+  {
+    "start": 500,
+    "end": 589,
+    "categoryId": "crefydd",
+    "amDdim": true,
+    "id": "dewi-sant",
+    "label": "Dewi Sant"
+  },
+  {
+    "start": 757,
+    "end": 796,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "clawdd-offa",
+    "label": "Clawdd Offa"
+  },
+  {
+    "date": 810,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "carreg-cadfan",
+    "label": "Carreg Cadfan"
+  },
+  {
+    "start": 820,
+    "end": 877,
+    "categoryId": "arweinwyr",
+    "amDdim": false,
+    "id": "rhodri-mawr",
+    "label": "Rhodri Mawr"
+  },
+  {
+    "start": 880,
+    "end": 950,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "hywel-dda",
+    "label": "Hywel Dda"
+  },
+  {
+    "date": 1066,
+    "categoryId": "pwynt-cyfeirio",
+    "amDdim": false,
+    "id": "brwydr-hastings",
+    "label": "Brwydr Hastings"
+  },
+  {
+    "start": 1085,
+    "end": 1136,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "tywysoges-nest",
+    "label": "Y Dywysoges Nest"
+  },
+  {
+    "date": 1091,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "castell-caerdydd",
+    "label": "Castell Caerdydd"
+  },
+  {
+    "start": 1097,
+    "end": 1136,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "gwenllian-ferch-gruffydd",
+    "label": "Gwenllian\\nferch Gruffudd"
+  },
+  {
+    "date": 1176,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "eisteddfod",
+    "label": "Eisteddfod"
+  },
+  {
+    "start": 1223,
+    "end": 1282,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "llywelyn-ein-llyw-olaf",
+    "label": "Llywelyn Ein Llyw Olaf"
+  },
+  {
+    "date": 1280,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "castell-caernarfon",
+    "label": "Castell Caernarfon"
+  },
+  {
+    "start": 1282,
+    "end": 1337,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "gwenllian-tywysoges",
+    "label": "Tywysoges Gwenllian"
+  },
+  {
+    "date": 1282,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "castell-harlech",
+    "label": "Castell Harlech"
+  },
+  {
+    "date": 1287,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "castell-conwy",
+    "label": "Castell Conwy"
+  },
+  {
+    "date": 1295,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "castell-biwmares",
+    "label": "Castell Biwmares"
+  },
+  {
+    "start": 1320,
+    "end": 1370,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "dafydd-ap-gwilym",
+    "label": "Dafydd ap Gwilym"
+  },
+  {
+    "start": 1348,
+    "end": 1349,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "pla-du",
+    "label": "Pla Du"
+  },
+  {
+    "start": 1350,
+    "end": 1410,
+    "categoryId": "diwylliant",
+    "amDdim": false,
+    "id": "mabinogi",
+    "label": "Mabinogi"
+  },
+  {
+    "start": 1354,
+    "end": 1415,
+    "categoryId": "milwrol",
+    "amDdim": true,
+    "id": "owain-glyndwr",
+    "label": "Owain Glynd\u0175r"
+  },
+  {
+    "start": 1530,
+    "end": 1609,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "twm-sion-cati",
+    "label": "Twm S\u00EDon Cati"
+  },
+  {
+    "date": 1535,
+    "categoryId": "arweinwyr",
+    "amDdim": false,
+    "id": "deddfau-uno",
+    "label": "Deddfau uno"
+  },
+  {
+    "date": 1588,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "beibl",
+    "label": "Y Beibl Cymraeg"
+  },
+  {
+    "start": 1682,
+    "end": 1722,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "barti-ddu",
+    "label": "Barti Ddu"
+  },
+  {
+    "date": 1710,
+    "categoryId": "diwydiant",
+    "amDdim": false,
+    "id": "llechi",
+    "label": "Diwydiant llechi"
+  },
+  {
+    "start": 1789,
+    "end": 1860,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "betsi-cadwaladr",
+    "label": "Betsi Cadwaladr"
+  },
+  {
+    "start": 1804,
+    "end": 1881,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "hugh-owen",
+    "label": "Syr Hugh Owen"
+  },
+  {
+    "date": 1819,
+    "categoryId": "diwydiant",
+    "amDdim": false,
+    "id": "pont-menai",
+    "label": "Pont y Borth"
+  },
+  {
+    "date": 1831,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "gwrthryfel-merthyr-tudful",
+    "label": "Gwrthryfel y gweithwyr\\nym Merthyr Tudful"
+  },
+  {
+    "start": 1839,
+    "end": 1843,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "merched-beca",
+    "label": "Merched Beca"
+  },
+  {
+    "date": 1847,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "llyfrau-gleision",
+    "label": "Llyfrau gleision"
+  },
+  {
+    "start": 1863,
+    "end": 1945,
+    "categoryId": "arweinwyr",
+    "amDdim": false,
+    "id": "lloyd-george",
+    "label": "David Lloyd George"
+  },
+  {
+    "date": 1865,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "patagonia",
+    "label": "Patagonia"
+  },
+  {
+    "date": 1865,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "anthem",
+    "label": "Hen Wlad fy Nhadau"
+  },
+  {
+    "start": 1887,
+    "end": 1917,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "hedd-wyn",
+    "label": "Hedd Wyn"
+  },
+  {
+    "start": 1891,
+    "end": 1985,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "kate-roberts",
+    "label": "Kate Roberts"
+  },
+  {
+    "start": 1897,
+    "end": 1960,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "aneurin-bevan",
+    "label": "Aneurin Bevan"
+  },
+  {
+    "date": 1912,
+    "categoryId": "pwynt-cyfeirio",
+    "amDdim": false,
+    "id": "titanic",
+    "label": "Titanic"
+  },
+  {
+    "start": 1914,
+    "end": 1918,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "rhyfel-byd-cyntaf",
+    "label": "Rhyfel Byd Cyntaf"
+  },
+  {
+    "start": 1914,
+    "end": 1953,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "dylan-thomas",
+    "label": "Dylan Thomas"
+  },
+  {
+    "date": 1922,
+    "categoryId": "modern",
+    "amDdim": true,
+    "id": "urdd",
+    "label": "Urdd"
+  },
+  {
+    "start": 1925,
+    "end": 1975,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "portmeirion",
+    "label": "Portmeirion"
+  },
+  {
+    "start": 1939,
+    "end": 1945,
+    "categoryId": "milwrol",
+    "amDdim": false,
+    "id": "ail-rhyfel-byd",
+    "label": "Ail Ryfel Byd"
+  },
+  {
+    "date": 1948,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "sain-ffagan",
+    "label": "Sain Ffagan"
+  },
+  {
+    "date": 1951,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "parc-eryri",
+    "label": "Eryri"
+  },
+  {
+    "date": 1952,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "parc-penfro",
+    "label": "Arfordir Penfro"
+  },
+  {
+    "date": 1955,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "prif-ddinas",
+    "label": "Caerdydd"
+  },
+  {
+    "date": 1957,
+    "categoryId": "lleoedd",
+    "amDdim": false,
+    "id": "parc-brycheiniog",
+    "label": "Bannau Brycheiniog"
+  },
+  {
+    "date": 1959,
+    "categoryId": "diwylliant",
+    "amDdim": false,
+    "id": "baner",
+    "label": "Baner Cymru"
+  },
+  {
+    "date": 1962,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "cymdeithas-yr-iaith",
+    "label": "Cymdeithas yr Iaith"
+  },
+  {
+    "date": 1963,
+    "categoryId": "pwynt-cyfeirio",
+    "amDdim": false,
+    "id": "martin-luther-king-jr",
+    "label": "Martin Luther King Jr."
+  },
+  {
+    "date": 1965,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "tryweryn",
+    "label": "Boddi Tryweryn"
+  },
+  {
+    "date": 1966,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "aberfan",
+    "label": "Aberfan"
+  },
+  {
+    "date": 1969,
+    "categoryId": "pwynt-cyfeirio",
+    "amDdim": false,
+    "id": "glanio-lleuad",
+    "label": "Glanio ar y Lleuad"
+  },
+  {
+    "date": 1982,
+    "categoryId": "modern",
+    "amDdim": true,
+    "id": "s4c",
+    "label": "S4C"
+  },
+  {
+    "start": 1984,
+    "end": 1985,
+    "categoryId": "diwydiant",
+    "amDdim": false,
+    "id": "streic-glowyr",
+    "label": "Streic y Glowyr"
+  },
+  {
+    "date": 1993,
+    "categoryId": "arweinwyr",
+    "amDdim": false,
+    "id": "deddf-iaith-93",
+    "label": "Deddf yr Iaith Gymraeg"
+  },
+  {
+    "date": 1999,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "senedd",
+    "label": "Senedd Cymru"
+  },
+  {
+    "date": 2018,
+    "categoryId": "unigolion-nodedig",
+    "amDdim": false,
+    "id": "geraint-thomas",
+    "label": "Geraint Thomas"
+  },
+  {
+    "date": 2019,
+    "categoryId": "cymdeithasol",
+    "amDdim": false,
+    "id": "covid-19",
+    "label": "COVID-19"
+  }
+]

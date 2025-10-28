@@ -1,0 +1,186 @@
+[
+  {
+    "categoryId": "lleoedd",
+    "background": "#D35400",
+    "color": "#FFFFFF",
+    "items": [
+      {
+        "start": 47,
+        "end": 410,
+        "categoryId": "lleoedd",
+        "amDdim": false,
+        "id": "rhufeiniaid",
+        "label": "Romans"
+      },
+      {
+        "start": 757,
+        "end": 796,
+        "categoryId": "lleoedd",
+        "amDdim": false,
+        "id": "clawdd-offa",
+        "label": "Offa\u0027s Dyke"
+      }
+    ],
+    "label": "Places and castles"
+  },
+  {
+    "categoryId": "crefydd",
+    "background": "#8E44AD",
+    "color": "#FFFFFF",
+    "items": [
+      {
+        "start": 500,
+        "end": 589,
+        "categoryId": "crefydd",
+        "amDdim": false,
+        "id": "dewi-sant",
+        "label": "Saint David"
+      }
+    ],
+    "label": "Faith and Beliefs"
+  },
+  {
+    "categoryId": "arweinwyr",
+    "background": "#2980B9",
+    "color": "#FFFFFF",
+    "items": [
+      {
+        "start": 820,
+        "end": 877,
+        "categoryId": "arweinwyr",
+        "amDdim": false,
+        "id": "rhodri-mawr",
+        "label": "Rhodri the Great"
+      },
+      {
+        "start": 880,
+        "end": 950,
+        "categoryId": "arweinwyr",
+        "amDdim": false,
+        "id": "hywel-dda",
+        "label": "Hywel Dda"
+      },
+      {
+        "start": 1223,
+        "end": 1282,
+        "categoryId": "arweinwyr",
+        "amDdim": false,
+        "id": "llywelyn-ein-llyw-olaf",
+        "label": "Llywelyn the Last"
+      },
+      {
+        "start": 1863,
+        "end": 1945,
+        "categoryId": "arweinwyr",
+        "amDdim": false,
+        "id": "lloyd-george",
+        "label": "David Lloyd George"
+      }
+    ],
+    "label": "Leaders and Laws"
+  },
+  {
+    "categoryId": "milwrol",
+    "background": "#E74C3C",
+    "color": "#FFFFFF",
+    "items": [
+      {
+        "start": 1085,
+        "end": 1136,
+        "categoryId": "milwrol",
+        "amDdim": false,
+        "id": "tywysoges-nest",
+        "label": "Y Dywysoges Nest"
+      },
+      {
+        "start": 1282,
+        "end": 1337,
+        "categoryId": "milwrol",
+        "amDdim": false,
+        "id": "gwenllian-tywysoges",
+        "label": "Tywysoges Gwenllian"
+      },
+      {
+        "start": 1354,
+        "end": 1415,
+        "categoryId": "milwrol",
+        "amDdim": false,
+        "id": "owain-glyndwr",
+        "label": "Owain Glynd\u0175r"
+      },
+      {
+        "start": 1914,
+        "end": 1918,
+        "categoryId": "milwrol",
+        "amDdim": false,
+        "id": "rhyfel-byd-cyntaf",
+        "label": "World War I"
+      },
+      {
+        "start": 1939,
+        "end": 1945,
+        "categoryId": "milwrol",
+        "amDdim": false,
+        "id": "ail-rhyfel-byd",
+        "label": "World War II"
+      }
+    ],
+    "label": "Battles and Heroes"
+  },
+  {
+    "categoryId": "unigolion-nodedig",
+    "background": "#F39C12",
+    "color": "#FFFFFF",
+    "items": [
+      {
+        "start": 1320,
+        "end": 1370,
+        "categoryId": "unigolion-nodedig",
+        "amDdim": false,
+        "id": "dafydd-ap-gwilym",
+        "label": "Dafydd ap Gwilym"
+      },
+      {
+        "start": 1789,
+        "end": 1860,
+        "categoryId": "unigolion-nodedig",
+        "amDdim": false,
+        "id": "betsi-cadwaladr",
+        "label": "Betsi Cadwaladr"
+      },
+      {
+        "start": 1887,
+        "end": 1917,
+        "categoryId": "unigolion-nodedig",
+        "amDdim": false,
+        "id": "hedd-wyn",
+        "label": "Hedd Wyn"
+      },
+      {
+        "start": 1914,
+        "end": 1953,
+        "categoryId": "unigolion-nodedig",
+        "amDdim": false,
+        "id": "dylan-thomas",
+        "label": "Dylan Thomas"
+      }
+    ],
+    "label": "Famous Individuals"
+  },
+  {
+    "categoryId": "cymdeithasol",
+    "background": "#C0392B",
+    "color": "#000000",
+    "items": [
+      {
+        "start": 1839,
+        "end": 1843,
+        "categoryId": "cymdeithasol",
+        "amDdim": false,
+        "id": "merched-beca",
+        "label": "Rebecca Riots"
+      }
+    ],
+    "label": "Protests and Hard Times"
+  }
+]

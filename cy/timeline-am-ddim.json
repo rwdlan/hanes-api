@@ -1,0 +1,97 @@
+[
+  {
+    "start": 500,
+    "end": 589,
+    "categoryId": "crefydd",
+    "amDdim": true,
+    "id": "dewi-sant",
+    "label": "Dewi Sant"
+  },
+  {
+    "start": 880,
+    "end": 950,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "hywel-dda",
+    "label": "Hywel Dda"
+  },
+  {
+    "date": 1176,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "eisteddfod",
+    "label": "Eisteddfod"
+  },
+  {
+    "start": 1223,
+    "end": 1282,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "llywelyn-ein-llyw-olaf",
+    "label": "Llywelyn Ein Llyw Olaf"
+  },
+  {
+    "start": 1354,
+    "end": 1415,
+    "categoryId": "milwrol",
+    "amDdim": true,
+    "id": "owain-glyndwr",
+    "label": "Owain Glynd\u0175r"
+  },
+  {
+    "date": 1588,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "beibl",
+    "label": "Y Beibl Cymraeg"
+  },
+  {
+    "date": 1865,
+    "categoryId": "diwylliant",
+    "amDdim": true,
+    "id": "anthem",
+    "label": "Hen Wlad fy Nhadau"
+  },
+  {
+    "date": 1922,
+    "categoryId": "modern",
+    "amDdim": true,
+    "id": "urdd",
+    "label": "Urdd"
+  },
+  {
+    "date": 1962,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "cymdeithas-yr-iaith",
+    "label": "Cymdeithas yr Iaith"
+  },
+  {
+    "date": 1965,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "tryweryn",
+    "label": "Boddi Tryweryn"
+  },
+  {
+    "date": 1966,
+    "categoryId": "cymdeithasol",
+    "amDdim": true,
+    "id": "aberfan",
+    "label": "Aberfan"
+  },
+  {
+    "date": 1982,
+    "categoryId": "modern",
+    "amDdim": true,
+    "id": "s4c",
+    "label": "S4C"
+  },
+  {
+    "date": 1999,
+    "categoryId": "arweinwyr",
+    "amDdim": true,
+    "id": "senedd",
+    "label": "Senedd Cymru"
+  }
+]
